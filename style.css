@@ -1,0 +1,65 @@
+
+.backgroundImg{
+    
+    width: 70%;
+    height: 40%;
+    border-radius: 5px;
+    display: block;
+    margin: 0 auto;
+     
+}
+
+
+.logBox{
+    
+    /* sizing */
+    
+    max-width: 1000px;
+    max-height: 400px;
+    min-width: 500px;
+    min-height: 200px;
+
+    /* fancy stuff */
+    
+    border-radius: 25px;
+    border-width: 10px;
+    opacity: 98%;
+    border-color: #fbff8c;
+    border-style: solid;
+    
+    /* positioning */ 
+    
+    padding: 10px; 
+    width: 80%;
+    height: 30%;
+    background-color: grey;
+    position: absolute;
+    top: 30vw;
+    left: 9vw;
+    
+    /* text stuff  */
+    
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.5em;
+    color: white;
+    
+}
+
+.mc_color{
+    
+    color: #ffee6e;
+}
+
+.sc_color{
+    
+    color: #ffbe45;
+}
+
+.spriteImg{
+    
+    position: absolute;
+    width: 40%;
+    height: auto;
+    top: 2.5vw;
+    left: 30vw;
+}
