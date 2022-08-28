@@ -7,6 +7,6 @@ That's right.
 
 Turns out I was way too ambitious, because I truly knew absolutely nada about how to make browser stuff. This whole thing took me like a WEEK with dozens of tutorials, and I couldn't make it past the first few dialogues. Just by looking at all of the images I've uplodaded, you can tell how passionate I was about this thing. There's sprites for characters that don't even show up and backgrounds from scenes that haven't happened yet. 
 
-And, hilariously, the images don't even work here, and that's the stuff I painstainkingly worked on for hours to make sure they looked right. Well, at least the textbox still seems to work, which is nice. I was pretty happy with it
+And, hilariously, the images don't even work here, and that's the stuff I painstainkingly worked on for hours to make sure they looked right. It works fine on my computer locally, though........................... Well, at least the textbox still seems to work, which is nice. I was pretty happy with it
 
 [Take a look at the monstrosity](https://sumaitaa.github.io/sdr2-ch1-web/)
